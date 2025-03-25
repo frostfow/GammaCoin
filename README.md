@@ -1,6 +1,6 @@
 GammaCoin (GAMMA)
 
-Overview
+
 GammaCoin is not just another token - it's a revolution in the Polygon ecosystem!
 
 Built with state-of-the-art smart contract architecture, GammaCoin combines powerful tokenomics, automatic liquidity generation, and anti-whale mechanisms to create a sustainable cryptocurrency designed for long-term growth.
