@@ -1,14 +1,23 @@
 GammaCoin (GAMMA)
-Overview
-GammaCoin (GAMMA) is a deflationary token built on the Polygon network with advanced tokenomics, automatic liquidity generation, and anti-whale protection mechanisms. With a total supply of 47 million tokens, GammaCoin combines the best features of modern cryptocurrencies to create a sustainable and community-driven ecosystem.
 
-Tokenomics
-Name: GammaCoin
-Symbol: GAMMA
-Total Supply: 47,000,000 GAMMA
-Decimals: 18
-Network: Polygon (MATIC)
-Token Distribution
+Overview
+GammaCoin is not just another token - it's a revolution in the Polygon ecosystem!
+
+Built with state-of-the-art smart contract architecture, GammaCoin combines powerful tokenomics, automatic liquidity generation, and anti-whale mechanisms to create a sustainable cryptocurrency designed for long-term growth.
+
+<div align="center">
+ 47,000,000 GAMMA Total Supply 
+</div>
+ Tokenomics
+<div align="center">
+Token Info	Details
+Name	GammaCoin
+Symbol	GAMMA
+Decimals	18
+Network	Polygon (MATIC)
+Total Supply	47,000,000 GAMMA
+</div>
+ Token Distribution
 Creator Allocation: 250,000 GAMMA (0.53% of total supply)
 Contract Reserve: 46,750,000 GAMMA (99.47% of total supply)
 Available for presale, liquidity, marketing, and community initiatives
@@ -57,4 +66,3 @@ Libraries Used: OpenZeppelin Contracts (ERC20, Ownable, ReentrancyGuard, SafeMat
 DEX Integration: QuickSwap (Polygon's leading DEX)
 Disclaimer
 Cryptocurrency investments involve risk. Always do your own research before investing. The GammaCoin team is not responsible for any losses incurred from trading or holding GAMMA tokens.
-
