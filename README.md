@@ -6,7 +6,7 @@ GammaCoin is not just another token - it's a revolution in the Polygon ecosystem
 Built with state-of-the-art smart contract architecture, GammaCoin combines powerful tokenomics, automatic liquidity generation, and anti-whale mechanisms to create a sustainable cryptocurrency designed for long-term growth.
 
 <div align="center">
- 47,000,000 GAMMA Total Supply 
+ 47,250,000 GAMMA Total Supply 
 </div>
  Tokenomics
 <div align="center">
@@ -15,11 +15,11 @@ Name	GammaCoin
 Symbol	GAMMA
 Decimals	18
 Network	Polygon (MATIC)
-Total Supply	47,000,000 GAMMA
+Total Supply	47,250,000 GAMMA
 </div>
  Token Distribution
-Creator Allocation: 250,000 GAMMA (0.53% of total supply)
-Contract Reserve: 46,750,000 GAMMA (99.47% of total supply)
+Creator Allocation: 499,100 GAMMA (1.0563% of total supply)
+Contract Reserve: 46,750,900 GAMMA (98.9437% of total supply)
 Available for presale, liquidity, marketing, and community initiatives
 Features
 Transaction Fees (8% Total)
